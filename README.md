@@ -1,4 +1,2 @@
 # imbalanced-data
-Project on imbalanced data
-
-A dissertation project on imbalanced data, and techniques used to mitigate its impact
+Write up for small project to view the effects of imabalanced data on machine learning models.
